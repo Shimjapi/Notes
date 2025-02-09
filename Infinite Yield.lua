@@ -1,1 +1,1 @@
-local AdminNetwork = loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/refs/heads/master/source'))();
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/refs/heads/master/source'))();
