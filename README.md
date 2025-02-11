@@ -68,7 +68,7 @@
  <br />
 <details>
 
-<summary>Cheatsheet for tostring </summary>
+<summary>Cheatsheet for placeId </summary>
 
 ```lua
    print(game.PlaceId)
