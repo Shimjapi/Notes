@@ -8,9 +8,10 @@
 ## Homework for FindFirstChild <br />
  > [!IMPORTANT]\
  > **Homework** <br />
- > Make a string that changes your Heads color using FindFirstChild while also using a string that grabs the players service **GetService** and the localplayer  <br />
+ > Make a string that changes your Heads color using FindFirstChild while also using a string that grabs the players service **GetService** and the localplayer
 
-## Cheatsheet
+
+ <br /> ## Cheatsheet
  <br />
 <details>
 
