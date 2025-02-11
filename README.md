@@ -53,3 +53,32 @@
 </details>
 <br />
  
+ ## Bonus <br />
+ > [!NOTE]\
+ > **Learn the functionalities game.PlaceId** <br />
+ > [game.PlaceId](https://github.com/Shimjapi/Notes/blob/main/Game/PlaceId.lua) **<- Click the link**
+
+## Homework for tostring and tonumber <br />
+ > [!IMPORTANT]\
+ > **Homework** <br />
+ > Make an if and else statement that changes the transparency of an object in the baseplate game
+ <br />
+
+## Cheatsheet
+ <br />
+<details>
+
+<summary>Cheatsheet for tostring </summary>
+
+```lua
+   print(game.PlaceId)
+
+   local Workspace = game:GetService('Workspace')
+   
+   if game.PlaceId == 4483381587 then
+       Workspace:FindFirstChild('Spawns').SpawnLocation.Transparency = 0
+   end
+```
+
+</details>
+<br />
