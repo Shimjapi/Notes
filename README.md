@@ -70,7 +70,7 @@
 
 <summary>Cheatsheet for placeId </summary>
 
-```lua
+```luau
    print(game.PlaceId)
 
    local Workspace = game:GetService('Workspace') -- just doing workspace is fine too
