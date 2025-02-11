@@ -23,6 +23,13 @@
 
 </details>
 
+
+
+
+
+
+
+
  ## Lesson 2 <br />
  > [!NOTE]\
  > **Learn the functionalities of tostring and tonumber** <br />
