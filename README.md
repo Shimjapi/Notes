@@ -73,7 +73,7 @@
 ```lua
    print(game.PlaceId)
 
-   local Workspace = game:GetService('Workspace')
+   local Workspace = game:GetService('Workspace') -- just doing workspace is fine too
    
    if game.PlaceId == 4483381587 then
        Workspace:FindFirstChild('Spawns').SpawnLocation.Transparency = 0
