@@ -2,7 +2,7 @@
  > [!NOTE]\
  > **Learn the functionalities of FindFirstChild** <br />
  > Ignore FindFirstChildWhichIsA and if you feel confident enough then proceed with FindFirstChildOfClass <br />
- > [FindFirstChild](https://github.com/Shimjapi/Notes/blob/main/FindFirstChild/All.lua)
+ > [FindFirstChild](https://github.com/Shimjapi/Notes/blob/main/FindFirstChild/All.lua) **<- Click the link**
 
 ## Homework for FindFirstChild <br />
  > [!IMPORTANT]\
