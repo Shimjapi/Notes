@@ -1,6 +1,6 @@
 # This is a collection of notes for you to practice <br />
  > [!NOTE]\
- > **Start with** <br />
+ > **Learn the functionalities of FindFirstChild** <br />
  > Ignore FindFirstChildWhichIsA and if you feel confident enough then proceed with FindFirstChildOfClass <br />
  > [FindFirstChild](https://github.com/Shimjapi/Notes/blob/main/FindFirstChild/All.lua)
 
