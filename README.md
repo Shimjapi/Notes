@@ -22,3 +22,8 @@
 ```
 
 </details>
+
+ ## Lesson 2 <br />
+ > [!NOTE]\
+ > **Learn the functionalities of tostring and tonumber** <br />
+ > [Tostring & Tonumber](https://github.com/Shimjapi/Notes/blob/main/Functions/tostring%20%26%20tonumber.lua) **<- Click the link**
