@@ -1,4 +1,5 @@
 # This is a collection of notes for you to practice <br />
+ ## Lesson 1 <br />
  > [!NOTE]\
  > **Learn the functionalities of FindFirstChild** <br />
  > Ignore FindFirstChildWhichIsA and if you feel confident enough then proceed with FindFirstChildOfClass <br />
