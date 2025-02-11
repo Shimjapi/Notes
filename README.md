@@ -9,7 +9,8 @@
  > [!IMPORTANT]\
  > **Homework** <br />
  > Make a string that changes your Heads color using FindFirstChild while also using a string that grabs the players service **GetService** and the localplayer
- 
+
+ <br />
 <details>
 
 <summary>Cheatsheet for FindFirstChild </summary>
@@ -22,14 +23,14 @@
 ```
 
 </details>
+<br />
 
 
 
 
 
 
-
-
+<br />
  ## Lesson 2 <br />
  > [!NOTE]\
  > **Learn the functionalities of tostring and tonumber** <br />
@@ -40,6 +41,7 @@
  > **Homework** <br />
  > Make a print function that turns a boolean into a string and print out of its false or true
 
+<br />
 <details>
 
 <summary>Cheatsheet for FindFirstChild </summary>
@@ -51,5 +53,5 @@
 ```
 
 </details>
-
+<br />
  
