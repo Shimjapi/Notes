@@ -35,7 +35,7 @@
 ## Homework for tostring and tonumber <br />
  > [!IMPORTANT]\
  > **Homework** <br />
- > Make a print function that turns a boolean into a string and print out of its false or true
+ > Make a print function that turns a boolean into a string using tostring() and print out of its false or true
  <br />
 
 ## Cheatsheet
