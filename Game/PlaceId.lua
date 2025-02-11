@@ -18,9 +18,7 @@ print(game.PlaceId) -- Copy the placeID
 -- Then make this 
 
 if game.PlaceId == 4483381587 then -- The number is (A literal baseplate's place Id)
-    if workspace:FindFirstChild("Baseplate") then
-        workspace:FindFirstChild("Baseplate").Color = Color3.fromRGB(85,85,255)
-    end
+    workspace:FindFirstChild("Baseplate").Color = Color3.fromRGB(85,85,255)
 end
 
 
