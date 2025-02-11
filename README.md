@@ -9,9 +9,9 @@
  > [!IMPORTANT]\
  > **Homework** <br />
  > Make a string that changes your Heads color using FindFirstChild while also using a string that grabs the players service **GetService** and the localplayer
+  <br />
 
-
- <br /> ## Cheatsheet
+## Cheatsheet
  <br />
 <details>
 
