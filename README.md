@@ -10,16 +10,13 @@
  
 <details>
 
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-You can add text within a collapsed section.
-
-You can add an image or a code block, too.
+<summary>Cheatsheet or Answers</summary>
 
 ```lua
-   puts "Hello World"
+   local Players = game:GetService('Players')
+   local Host = Players.LocalPlayer
+   
+   Host.Character:FindFirstChild("Head").Color = Color3.fromRGB(255,0,0)
 ```
 
 </details>
