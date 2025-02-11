@@ -1,6 +1,7 @@
 # This is a collection of notes for you to practice <br />
  > [!NOTE]\
  > Start with
+ > Ignore FindFirstChildWhichIsA and if you feel confident enough then proceed with FindFirstChildOfClass
  > [FindFirstChild](https://github.com/Shimjapi/Notes/blob/main/FindFirstChild/All.lua)
 
 ## Homework for FindFirstChild <br />
@@ -10,7 +11,7 @@
  
 <details>
 
-<summary>Cheatsheet or Answers</summary>
+<summary>Cheatsheet for FindFirstChild </summary>
 
 ```lua
    local Players = game:GetService('Players')
