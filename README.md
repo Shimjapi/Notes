@@ -42,7 +42,7 @@
  <br />
 <details>
 
-<summary>Cheatsheet for FindFirstChild </summary>
+<summary>Cheatsheet for tostring </summary>
 
 ```lua
    local Boolean = true
