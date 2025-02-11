@@ -58,7 +58,7 @@
  > **Learn the functionalities game.PlaceId** <br />
  > [game.PlaceId](https://github.com/Shimjapi/Notes/blob/main/Game/PlaceId.lua) **<- Click the link**
 
-## Homework for tostring and tonumber <br />
+## Homework for game.PlaceId <br />
  > [!IMPORTANT]\
  > **Homework** <br />
  > Make an if and else statement that changes the transparency of an object in the baseplate game
