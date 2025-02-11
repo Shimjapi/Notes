@@ -16,11 +16,11 @@ local Host = Players.LocalPlayer -- Sets the value of Host to your players
 local NoCheck = Host.Character.Humanoid -- Grabs the humanoid without findfirstchild
 local Check = Host.Character:FindFirstChild("Humanoid") -- Grabs the humanoid with findfirstchild
 
--- If a developer changes the name your humanoid when you load the game
+-- If a developer changes the name of your humanoid when you load the game
 NoCheck.WalkSpeed = 50;
 -- This will error, this errors because there is no child named "Humanoid"
 -- When calling a child Host.Character.Humanoid, you're just telling the computer to find these names
--- Since there is no name Humanoid, your script errors and will not proceed
+-- Since there is no item named Humanoid, your script errors and will not proceed
 
 -- Here if a developer changes the humanoid name when you load in
 Check.WalkSpeed = 50;
@@ -48,14 +48,16 @@ Host.Character:FindFirstChildOfClass('Humanoid').WalkSpeed = 50 -- Proceeds
 Host.Character.Humanoid.WalkSpeed = 50 -- Errors
 
 
--- Remember we are battling game developers, and bypassing minor anti-cheats they put in
+-- The reason why FindFirstChildOfClass proceeds is because instead of looking for the name of the item like FindFirstChild
+-- Our script instead looks for an item that matches the class we provided FindFirstChildOfClass('Humanoid')
+-- Spots it, hooks it and you can change the values of it
 
 
 
 -- [ FindFirstChildWhichIsA ]
 
 -- FindFirstChildWhichIsA 
--- May seem like it has the same functionality to FindFirstChildOfClass which is kind of does
+-- May seem like it has the same functionality to FindFirstChildOfClass which it kind of does
 -- But there is a thing called SubClasses in roblox
 
 -- These arent hard or difficult
@@ -65,6 +67,7 @@ Host.Character.Humanoid.WalkSpeed = 50 -- Errors
 -- Parts actual parents are "BasePart"
 
 -- BaseParts SubClasses, Parts, SpawnLocations, Wedges, MeshParts, Terrain and other stuff
+-- https://roblox.fandom.com/wiki/Category:Subclasses_of_Instance, Here is a list of all the subclasses in roblox (Instance.new)
 
 -- Don't look for a SubClass in a parts properties, you just want to look for the class name
 
