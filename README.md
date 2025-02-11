@@ -27,3 +27,22 @@
  > [!NOTE]\
  > **Learn the functionalities of tostring and tonumber** <br />
  > [Tostring & Tonumber](https://github.com/Shimjapi/Notes/blob/main/Functions/tostring%20%26%20tonumber.lua) **<- Click the link**
+
+## Homework for tostring and tonumber <br />
+ > [!IMPORTANT]\
+ > **Homework** <br />
+ > Make a print function that turns a boolean into a string and print out of its false or true
+
+<details>
+
+<summary>Cheatsheet for FindFirstChild </summary>
+
+```lua
+   local Boolean = true
+
+   print("Boolean is now "..tostring(Boolean))
+```
+
+</details>
+
+ 
