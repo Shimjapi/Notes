@@ -36,8 +36,10 @@
  > [!IMPORTANT]\
  > **Homework** <br />
  > Make a print function that turns a boolean into a string and print out of its false or true
+ <br />
 
-<br />
+## Cheatsheet
+ <br />
 <details>
 
 <summary>Cheatsheet for FindFirstChild </summary>
